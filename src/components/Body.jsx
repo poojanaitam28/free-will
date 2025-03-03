@@ -7,7 +7,7 @@ function Body() {
   return (
     <div>
       <Navbar />
-        <Home />
+      <Home />
       <Footer />
     </div>
   );
